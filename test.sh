@@ -1,5 +1,8 @@
 #!/bin/bash
 
+:установка curl
+apt install curl -y
+
 # Создание скрипта
 touch /root/test.sh
 tee /root/test.sh > /dev/null <<'EOF'
