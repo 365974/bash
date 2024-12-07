@@ -1,6 +1,6 @@
 #!/bin/bash
 
-:установка curl
+#установка curl
 apt install curl -y
 
 # Создание скрипта
